@@ -1,4 +1,4 @@
-# NuetronStars_sound_installation
+# NeutronStars_sound_installation
 a sound installation on Radio Pulsars, using scientific data sets, supercollider, and midi controllers
 
 see it here: http://crozzoli.com/?page_id=796
